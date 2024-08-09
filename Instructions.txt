@@ -1,0 +1,8 @@
+I make this tool for benginner an in the same time for advancer.
+"-"/^.^
+1.Rule number one never go to prison
+2.Rule number two you must to use sudo the commande for run this code is:
+>>>>>>>sudo python3 VulnJoke.py
+3.you have one probleme you must to copie the python code for create reverse shell just for windows and you must to paste in chatgpt for remove the mistakes.
+4.Thanks for your attention!!!!!
+$$$GOODBYE$$$
